@@ -1,10 +1,14 @@
 {
   "name": "react-media-modal-viewer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React.js library to view media files in modal with animations",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
+  "homepage": "https://ammar-abid92.github.io/react-media-modal-viewer/",
+  "repository": {
+    "url": "https://github.com/Ammar-Abid92/react-media-modal-viewer"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "rollup": "rollup -c --bundleConfigAsCjs"

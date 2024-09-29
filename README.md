@@ -4,8 +4,6 @@ A simple and customizable media modal viewer for React applications that support
 
 ![Demo Gif](https://github.com/user-attachments/assets/201eadf4-d17d-47ec-a312-dbf2199ff1b2)
 
-
-
 ## Installation
 
 Install the package via npm or yarn:
@@ -53,18 +51,21 @@ export default App;
 
 ## Options
 
-| Property             | type                               |      required?       | Description                                                                                                                                                             
-| -------------------- | --------------------- | :-----------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| featuredMedia        | { image: string; }[]               |    Yes               | An array of media objects containing the image URL or path to be displayed. |   
-| mediaContainerStyles | BoxProps                           |    No                | CSS styles to be applied to the media container. Customize the size, positioning, and appearance of your media. |   
-| fileType             | "image" or "video" or "application" |    No                | Specifies the type of media being displayed. |   
+| Property             | type                                | required? | Description                                                                                                     |
+| -------------------- | ----------------------------------- | :-------: | --------------------------------------------------------------------------------------------------------------- |
+| featuredMedia        | { image: string; }[]                |    Yes    | An array of media objects containing the image URL or path to be displayed.                                     |
+| mediaContainerStyles | BoxProps                            |    No     | CSS styles to be applied to the media container. Customize the size, positioning, and appearance of your media. |
+| fileType             | "image" or "video" or "application" |    No     | Specifies the type of media being displayed.                                                                    |
 
 ## Contributing
+
 Feel free to open issues or pull requests if you have any improvements or suggestions.
 
 ## License
+
 MIT
 
+## Authors
 
-
-
+- Github: [@Ammar-Abid92](https://github.com/Ammar-Abid92)
+- Linkedin: [@Muhammad Ammar Abid](https://www.linkedin.com/in/muhammad-ammar-abid-7645951b7/)
